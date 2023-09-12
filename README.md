@@ -1,6 +1,6 @@
 # Portfolio
 
-Each branch has individual projects that I have worked on either individually or in a group.
+Each branch has single projects that I have worked on either individually or in a group.
 
 ## Developer projects
 

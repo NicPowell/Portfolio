@@ -12,7 +12,7 @@ Each branch has projects that I have worked on either individually or in a group
 2. **Tank game**:(**Individual**)
    - Superseding my maze game and furthering my experience with classes and libaries.
    - Two tanks battle to finish the other (Lots of object oriented programming). 
-   - When the character hits the other with the projectile they win with an immediate close.
+   - When the character hits the other with the projectile they win with an immediate exit of the window.
 
 3. **C program**: (**Paired-Uni**)
    - Illustrates my basic understanding of C programming.
